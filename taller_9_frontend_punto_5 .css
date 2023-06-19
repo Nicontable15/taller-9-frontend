@@ -1,0 +1,40 @@
+#titulo {
+    
+    font-weight: bolder;
+}
+
+#parrafo {
+    line-height: 33px;
+    font-size: 30px;
+}
+
+#verde {
+    text-decoration: underline;
+    color: rgb(15, 182, 15);
+}
+
+#rojo {
+    color: red;
+}
+
+#resalto {
+    text-decoration: underline overline;
+
+}
+
+#negrilla {
+    font-weight: bold;
+    font-size: 45px;
+
+}
+
+#azul {
+    font-weight: bold;
+    color: blue;
+}
+
+#rojon {
+
+    text-decoration: underline;
+    color: red;
+}

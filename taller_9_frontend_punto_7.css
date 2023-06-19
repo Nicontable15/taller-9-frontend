@@ -1,0 +1,17 @@
+.p7 {
+    background-color: rgb(243, 150, 238);
+    
+}
+.p7 ul li {
+    display: inline-flex;
+}
+.p7 li{
+    padding: 12px;
+}
+.p7 li:hover{
+    background-color: blue;
+}
+.p7 a{
+    color: aliceblue;
+    font-size: 30px;
+}

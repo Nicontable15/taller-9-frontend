@@ -1,0 +1,23 @@
+#title {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#p1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#p2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: yellow;
+    text-decoration: underline;
+}
+
+#p3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: blueviolet;
+    text-decoration: underline;
+}
